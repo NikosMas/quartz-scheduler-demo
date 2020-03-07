@@ -17,5 +17,7 @@
         Accept: application/json
 
 
+### To run the server please navigate to project solution's folder and run via cmd the following command: 'mvn jetty:run'. Server will start using Jetty on your localhost:8081. Important! First run 'mvn clean install' to build the project.
+
 
 Note: The demo project developed in 2018 so the 'https://www.epant.gr/openData.svc/GetNews' site may not behave as it did.
